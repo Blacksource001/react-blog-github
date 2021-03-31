@@ -175,19 +175,6 @@ This project is inspired from many other similar projects.
 - [utterances](https://github.com/utterance/utterances)
 
 
-
-## 🤝 Contributing
-
-Any idea on how we can make this more awesome ? [Open a new issue](https://github.com/saadpasta/react-blog-github/issues)!  We need all the help we can get to make this project awesome!
-
-## :boom: Todo
-- Add Comment From Github
-- Authentication using Github
-- Footer 
-- Header
-- Social Media Sharing
-
-
 ## 📄 License 
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
